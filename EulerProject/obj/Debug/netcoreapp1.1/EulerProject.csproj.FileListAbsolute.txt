@@ -1,0 +1,10 @@
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\bin\Debug\netcoreapp1.1\EulerProject.deps.json
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\bin\Debug\netcoreapp1.1\EulerProject.runtimeconfig.json
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\bin\Debug\netcoreapp1.1\EulerProject.runtimeconfig.dev.json
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\bin\Debug\netcoreapp1.1\EulerProject.dll
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\bin\Debug\netcoreapp1.1\EulerProject.pdb
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\obj\Debug\netcoreapp1.1\EulerProject.csprojResolveAssemblyReference.cache
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\obj\Debug\netcoreapp1.1\EulerProject.csproj.CoreCompileInputs.cache
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\obj\Debug\netcoreapp1.1\EulerProject.AssemblyInfo.cs
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\obj\Debug\netcoreapp1.1\EulerProject.dll
+F:\Documents\VisualStudio2017\EulerProject\EulerProject\obj\Debug\netcoreapp1.1\EulerProject.pdb
