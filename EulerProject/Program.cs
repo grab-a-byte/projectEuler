@@ -4,16 +4,22 @@ namespace EulerProject
 {
     class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
             //MultiplesOfThreeAndFive.Execute();
 
-
             // FibonacciEven.Exeute();
 
-            Class1.Run();
+            //Class1.Run();
+
+            //Class1.GeneratePrimeNumbers(600851475143);
+
+            PalindromicNumber.Execute();
+   
 
             Console.ReadKey();
+
+            return 0;
         }
     }
 }

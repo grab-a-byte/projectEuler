@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\Documents\\VisualStudio2017\\EulerProject\\EulerProject\\EulerProject.csproj",
+      "projectUniqueName": "F:\\Documents\\Github\\projectEuler\\EulerProject\\EulerProject.csproj",
       "projectName": "EulerProject",
-      "projectPath": "F:\\Documents\\VisualStudio2017\\EulerProject\\EulerProject\\EulerProject.csproj",
+      "projectPath": "F:\\Documents\\Github\\projectEuler\\EulerProject\\EulerProject.csproj",
       "packagesPath": "C:\\Users\\ap-2k\\.nuget\\packages\\",
-      "outputPath": "F:\\Documents\\VisualStudio2017\\EulerProject\\EulerProject\\obj\\",
+      "outputPath": "F:\\Documents\\Github\\projectEuler\\EulerProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ap-2k\\AppData\\Roaming\\NuGet\\NuGet.Config",
