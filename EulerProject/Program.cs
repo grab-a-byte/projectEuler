@@ -14,8 +14,9 @@ namespace EulerProject
 
             //Class1.GeneratePrimeNumbers(600851475143);
 
-            PalindromicNumber.Execute();
-   
+            //PalindromicNumber.Execute();
+
+            EvenlyDivisable.Execte();
 
             Console.ReadKey();
 
